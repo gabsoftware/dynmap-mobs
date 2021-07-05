@@ -6,6 +6,9 @@
 # netbeans
 /nbproject
 
+# gradle
+/.gradle
+
 # we use maven!
 /build.xml
 
